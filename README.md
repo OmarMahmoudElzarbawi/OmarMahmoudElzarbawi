@@ -48,20 +48,6 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
 <code><img height="25" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></code>
 
----
-
-### 📌 Pinned Projects
-<p align="left">
-  <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula&cache_seconds=0" />
-  </a>
-  <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula&cache_seconds=0" />
-  </a>
-  <a href="https://github.com/Mohamed3taa/BallonDOr-Winners-Analysis" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula&cache_seconds=0" />
-  </a>
-</p>
 
 ---
 
