@@ -1,4 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
   <a href="https://www.facebook.com/Mohammad3taa" target="_blank">
@@ -60,5 +59,4 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
 <div align="center">
   Show some ❤️ by starring some of the repositories!
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtdGZjdDdteHJ0anRiZ3pvdWQzbDdsdDNlbnk3bDNlYTEzanByNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TR996IaHtmDi1x98zW/giphy.gif" alt="Star GIF" width="80"/>
-</div>
+ 
