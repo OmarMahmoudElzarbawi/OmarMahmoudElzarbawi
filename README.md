@@ -12,7 +12,8 @@
   </a>
 </p>
 <br>
-
+<div style="display:flex; align-items:flex-start; gap:20px;">
+  <div style="flex:1; min-width:250px;">
 
    Hi, I'm <strong>Omar Mahmoud</strong>, a <strong>Data Analyst & Data Enthusiast</strong>.
 I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.
@@ -23,10 +24,7 @@ I work with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Excel</strong
    - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/omar-mahmoud111">https://www.linkedin.com/in/omar-mahmoud111</a>
   </div>
 
-  <div>
-    <img alt="Data Analysis GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWQ2ZDM5dmRkbTk4N2c1anB1MGJpbndmYnJoczYzdXhkZ2t0NWk4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kmu3cdsVNLzAu8Je0l/giphy.gif" width="180"/>
-  </div>
-</div>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OmarMahmoudElzarbawi" alt="OmarMahmoudElzarbawi" /> </p>
 
