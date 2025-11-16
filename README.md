@@ -1,11 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1>Hey, nice to see you.</h1>
+
 <p align="left">
-  <a href="https://www.facebook.com/Mohammad3taa" target="_blank">
+  <a href="https://www.facebook.com/omar.mahmoud.el.zarabawy" target="_blank">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammadataa" target="_blank">
-  
-  <a href="https://www.instagram.com/mohammad_3taa" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-mahmoud111" target="_blank">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/omar.mahmoud.elzarbawy111/" target="_blank">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
   </a>
 </p>
@@ -13,12 +15,13 @@
 
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="flex:1; min-width:250px;">
-   Hi, I'm <strong>Mohammad Elbassal</strong>, a <strong>Data Analyst & Data Enthusiast</strong> 👨🏻‍💻.  
-I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.  
-I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Excel</strong> to analyze, visualize, and interpret complex datasets.
+   Hi, I'm <strong>Omar Mahmoud</strong>, a <strong>Data Analyst & Data Enthusiast</strong>.
+I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.
+I work with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Excel</strong> to analyze and visualize complex datasets.
 
-   - 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
-   - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
+   <br><br>
+   - 📫 How to reach me: <a href="mailto:omaarmahmoud786@gmail.com">omaarmahmoud786@gmail.com</a><br>
+   - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/omar-mahmoud111">https://www.linkedin.com/in/omar-mahmoud111</a>
   </div>
 
   <div>
@@ -26,7 +29,7 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
   </div>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed3taa" alt="Mohamed3taa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmarMahmoudElzarbawi" alt="OmarMahmoudElzarbawi" /> </p>
 
 ---
 
@@ -45,17 +48,19 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
 <code><img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
 
+---
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&hide=contribs" alt="Mohamed3taa" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarMahmoudElzarbawi&show_icons=true&theme=gotham&hide=contribs" alt="OmarMahmoudElzarbawi" />
 </p>
 
 ---
 <div align="center">
   Show some ❤️ by starring some of the repositories!
   <br>
- 
+</div>
