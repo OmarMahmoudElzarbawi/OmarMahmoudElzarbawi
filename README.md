@@ -1,50 +1,78 @@
-# Hi, I'm Omar Mahmoud
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-I'm a data analyst passionate about turning raw data into clear insights, visual stories, and actionable decisions.
+<p align="left">
+  <a href="https://www.facebook.com/Mohammad3taa" target="_blank">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammadataa" target="_blank">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mohammad_3taa" target="_blank">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
+  </a>
+</p>
+<br>
 
-## **About Me**
+<div style="display:flex; align-items:flex-start; gap:20px;">
+  <div style="flex:1; min-width:250px;">
+   Hi, I'm <strong>Mohammad Elbassal</strong>, a <strong>Data Analyst & Data Enthusiast</strong> 👨🏻‍💻.  
+I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.  
+I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Excel</strong> to analyze, visualize, and interpret complex datasets.
 
-- 📊 Data Analyst specializing in **Python**, **SQL**, and **Power BI**
-- 🧠 Experienced in **data cleaning**, **EDA**, **predictive modeling**, and **dashboard development**
-- 🛠️ Worked on multiple projects including **Telco Churn Prediction**, **Retail Sales Analytics**, and **Faculty Search Engine (IR System)**
-- 🔍 Interested in **machine learning**, **information retrieval**, and **data visualization**
-- 💬 Reach out for collaboration or questions!
+   - 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
+   - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
+  </div>
 
----
+  <div>
+    <img alt="Data Analysis GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWQ2ZDM5dmRkbTk4N2c1anB1MGJpbndmYnJoczYzdXhkZ2t0NWk4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kmu3cdsVNLzAu8Je0l/giphy.gif" width="180"/>
+  </div>
+</div>
 
-## **Tech Stack**
-
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="pandas" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
-<code><img height="20" alt="numpy" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
-<code><img height="20" alt="powerbi" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg"></code>
-<code><img height="20" alt="streamlit" src="https://raw.githubusercontent.com/github/explore/master/topics/streamlit/streamlit.png"></code>
-
----
-
-## **GitHub Stats**
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarMahmoud&show_icons=true&theme=default&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMahmoud&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
-
----
-
-## **Featured Projects**
-
-### 🔹 Telco Customer Churn Prediction
-Machine learning project including preprocessing, EDA, clustering, and classification.
-
-### 🔹 Retail Sales Management System
-SQL-based project analyzing sales, customers, and product performance.
-
-### 🔹 Faculty Search Engine (IR Project)
-Information Retrieval system with multiple indexing and query methods (Boolean, Fuzzy, Phrase).
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed3taa" alt="Mohamed3taa" /> </p>
 
 ---
 
-## **Connect With Me**
+### **Languages and Tools**
+<br>
 
-<a href="https://www.linkedin.com/in/omar-mahmoud-1a43782a7/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
-</a>
+<code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/SQL-005C8C?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></code>
+<code><img height="25" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="25" src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></code>
+
+---
+
+### 📌 Pinned Projects
+<p align="left">
+  <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula&cache_seconds=0" />
+  </a>
+  <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula&cache_seconds=0" />
+  </a>
+  <a href="https://github.com/Mohamed3taa/BallonDOr-Winners-Analysis" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula&cache_seconds=0" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&hide=contribs" alt="Mohamed3taa" />
+</p>
+
+---
+<div align="center">
+  Show some ❤️ by starring some of the repositories!
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtdGZjdDdteHJ0anRiZ3pvdWQzbDdsdDNlbnk3bDNlYTEzanByNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TR996IaHtmDi1x98zW/giphy.gif" alt="Star GIF" width="80"/>
+</div>
