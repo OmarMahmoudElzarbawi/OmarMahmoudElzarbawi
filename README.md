@@ -13,8 +13,7 @@
 </p>
 <br>
 
-<div style="display:flex; align-items:flex-start; gap:20px;">
-  <div style="flex:1; min-width:250px;">
+
    Hi, I'm <strong>Omar Mahmoud</strong>, a <strong>Data Analyst & Data Enthusiast</strong>.
 I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.
 I work with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Excel</strong> to analyze and visualize complex datasets.
